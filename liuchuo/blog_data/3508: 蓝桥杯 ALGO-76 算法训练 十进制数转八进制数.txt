@@ -1,0 +1,1 @@
+<p><strong><span style="color: #33cccc;">编写函数把一个十进制数输出其对应的八进制数。</span></strong><br><span style="color: #3366ff;"><strong>样例输入</strong></span><br><strong><span style="color: #33cccc;">9274</span></strong><br><span style="color: #3366ff;"><strong>样例输出</strong></span><br><strong><span style="color: #33cccc;">22072</span></strong></p><p> </p>

@@ -23,6 +23,6 @@ class liuchuo_spider(scrapy.Spider):
         yield item
         
         next_url = response.xpath('.//div[@class="nav-previous"]/a/@href').extract()[0]
-        yield scrapy.Request(url = next_url, callback = self.parse)
+        yield scrapy.http.Request(url = next_url, callback = self.parse)
         # 在爬取的时候,有可能会与allowed_domains产生冲突,这个时候需要使用dont_filter属性禁用该功能
         # 但是,allowed_domains可以防止爬虫无限制地访问,最好的解决方法还是要从根源上开始

@@ -1,0 +1,1 @@
+<p class="p1"><span class="s1">“</span><span class="s2">高级</span><span class="s1">”CSS</span><span class="s2">样式一般应用于控制网页内容的外观。附加样式表分为内嵌样式表和外部样式表两种方式。</span></p>

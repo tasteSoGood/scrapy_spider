@@ -1,0 +1,1 @@
+<p class="p1"><strong>栈的常用操作函数：<br><span style="color: #33cccc;">top()<br></span><span style="color: #33cccc;">push()<br></span><span style="color: #33cccc;">pop()<br></span><span style="color: #33cccc;">size()<br></span><span style="color: #33cccc;">empty()</span></strong></p><p></p><p></p>

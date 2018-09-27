@@ -1,0 +1,1 @@
+<p>在Android Virtual Device Manager里面创建的Android虚拟机连接本机服务器的ip地址是10.0.2.2。千万不要用localhost或者127.0.0.1，localhost和127.0.0.1是指本机（这里指Android虚拟机），所以localhost和127.0.0.1并不能访问到电脑本机的服务器。</p><p>如果你是使用Genymotion模拟器来作为Android的虚拟设备，那么访问电脑本机的服务器地址是10.0.3.2。</p>

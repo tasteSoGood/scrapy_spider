@@ -1,0 +1,1 @@
+<p>Related to question Excel Sheet Column Title</p><p>Given a column title as appear in an Excel sheet, return its corresponding column number.</p><p>For example:</p><p>A -&gt; 1<br>B -&gt; 2<br>C -&gt; 3<br>…<br>Z -&gt; 26<br>AA -&gt; 27<br>AB -&gt; 28</p><p> </p>

@@ -1,0 +1,1 @@
+<p><strong>context.executeFecthRequest(request, error: nil)</strong></p><p><strong>在Swift3中改为：</strong></p><p><strong>context.fecth(request)</strong></p><p><strong>且要处理异常，即：</strong></p><p><strong>try! context.fetch(request)</strong></p>

@@ -1,0 +1,1 @@
+<p><span style="color: #99cc00;"><strong>需求规格说明可以包括系统的运行环境。</strong></span></p><p><span style="color: #ff9900;"><strong>需求规格说明可以包括软件的主要功能，用户界面及<span style="color: #99cc00;">运行环境</span>，软件的性能等等。</strong></span><br><span style="color: #ff9900;"><strong>不能包括算法的详细过程。</strong></span></p>

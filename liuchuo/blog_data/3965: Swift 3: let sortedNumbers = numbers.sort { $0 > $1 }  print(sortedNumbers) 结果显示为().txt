@@ -1,0 +1,1 @@
+<p></p><p><strong>会发现输出结果为( )</strong><br><strong> 如果改成</strong></p><p><strong>会出现报错：<span style="color: #ff9900;">’sort’ has been renamed to ‘sorted(by:)’</span></strong></p><p><strong>所以知道这段代码应该改为：</strong></p><p><strong>这样才能正确输出结果～</strong></p>

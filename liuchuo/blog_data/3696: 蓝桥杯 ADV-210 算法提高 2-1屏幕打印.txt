@@ -1,0 +1,1 @@
+<p><span style="color: #3366ff;"><strong>样例输出</strong></span><br><span style="color: #33cccc;"><strong>**********************</strong></span><br><span style="color: #33cccc;"><strong>* My first C program *</strong></span><br><span style="color: #33cccc;"><strong>**********************</strong></span></p><p> </p>

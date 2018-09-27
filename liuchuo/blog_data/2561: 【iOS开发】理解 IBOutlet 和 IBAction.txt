@@ -1,0 +1,1 @@
+<p><strong><span style="color: #ff9900;">总结：所以说IBOutlet和IBAction都只是一个标记，IBOutlet用来标记代码片段中的变量，这个变量是应该和界面中某个对象相关联的；IBAction应该用来标记代码片段中的方法，这个方法是应该和界面中的某个对象相关联的，用来相应对象应该响应的操作</span></strong></p>

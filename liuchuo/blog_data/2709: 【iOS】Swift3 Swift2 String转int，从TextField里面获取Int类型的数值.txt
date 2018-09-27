@@ -1,0 +1,1 @@
+<p><strong>从Swift2开始，.toInt()方法就被移除了，现在转Int只需要这样写：</strong></p><p><span style="color: #99cc00;"><strong>String s = “123”</strong></span><br><span style="color: #99cc00;"><strong>let myInt = Int(s)</strong></span></p><p><strong>如果从TextField里面获取Int类型的数值，只需要：</strong></p><p><span style="color: #99cc00;"><strong>let myInt = Int(mytextfield.text!)</strong></span></p>

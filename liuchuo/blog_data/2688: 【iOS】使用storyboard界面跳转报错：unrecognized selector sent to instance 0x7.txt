@@ -1,0 +1,1 @@
+<p><strong>使用storyboard直接model界面跳转的时候出现报错：unrecognized selector sent to instance 0x7…</strong></p><p><strong>网上查了相似的问题但是依旧没有找到解决方法，后来才发现是因为自己一开始尝试用代码将一个UIButton试图绑定到代码里面，但是之后删除了相应绑定代码，又变成使用storyboard尝试，导致了<span style="color: #ff9900;">一开始代码绑定的那个没有解除绑定</span>。。然后把那些的绑定都删掉重新绑定一下就好了。。。</strong></p>

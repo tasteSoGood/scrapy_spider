@@ -1,0 +1,1 @@
+<p>Given a binary tree, check whether it is a mirror of itself (ie, symmetric around its center).</p><p>For example, this binary tree is symmetric:</p><p>1<br>/ \\<br>2 2<br>/ \\ / \\<br>3 4 4 3<br>But the following is not:<br>1<br>/ \\<br>2 2<br>\\ \\<br>3 3<br>Note:<br>Bonus points if you could solve it both recursively and iteratively.</p><p> </p>

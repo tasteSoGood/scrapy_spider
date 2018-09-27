@@ -1,0 +1,1 @@
+<p>Reverse a singly linked list.</p><p><span style="color: #99cc00;"><strong>题目大意：反转一个单链表～</strong></span></p><p><span style="color: #ff9900;"><strong>分析：设立三个指针：cur——当前结点；pre——当前结点的前一个结点；temp——临时结点（标记cur的next）。首先保存cur的next到temp，然后将cur的next指向pre，将pre移动到当前cur，然后将cur指向temp，直到cur==NULL，返回pre即反转了该链表～</strong></span></p><p> </p>

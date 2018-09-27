@@ -1,0 +1,1 @@
+<p><strong>setprecision的头文件为：#include &lt;iomanip&gt;<br>会自动四舍五入<br>setprecision(n)表示显示n个有效数字<br>和fixed连用可以控制小数点后面输出的位数<br></strong></p><p></p>

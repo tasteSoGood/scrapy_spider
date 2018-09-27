@@ -1,0 +1,1 @@
+<p><span style="color: #33cccc;"><strong>输入一个字符串，长度在100以内，按相反次序输出其中的所有字符。</strong></span><br><span style="color: #3366ff;"><strong>样例输入</strong></span><br><span style="color: #33cccc;"><strong>tsinghua</strong></span><br><span style="color: #3366ff;"><strong>样例输出</strong></span><br><span style="color: #33cccc;"><strong>auhgnist</strong></span></p><p> </p>

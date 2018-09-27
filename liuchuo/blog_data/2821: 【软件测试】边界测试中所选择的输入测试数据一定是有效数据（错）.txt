@@ -1,0 +1,1 @@
+<p><span style="color: #ff6600;"><strong><span class="md-line md-end-block">边界测试中所选择的输入测试数据不一定是有效数据。</span></strong></span></p><p><strong><span class="md-line md-end-block">边界测试的测试用例选择原则：</span></strong></p><p><span style="color: #ff6600;"><strong><span class="md-line md-end-block"><span class="">所以说，边界测试输入的测试数据是略大于略小于边界值，但这个数据并不一定是有效的。</span></span></strong></span></p>

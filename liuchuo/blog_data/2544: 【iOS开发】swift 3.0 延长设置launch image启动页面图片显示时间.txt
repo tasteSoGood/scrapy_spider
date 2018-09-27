@@ -1,0 +1,1 @@
+<p><strong>在ViewController.swift里面的viewDidLoad方法中添加代码（3.0为秒数，可自定义）：</strong></p><p> </p>

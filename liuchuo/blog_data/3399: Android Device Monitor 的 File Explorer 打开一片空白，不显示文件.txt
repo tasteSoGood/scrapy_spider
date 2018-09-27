@@ -1,0 +1,1 @@
+<p>据说这是一个bug，在Android 7 (API 24+)里面会出现，已经有人把反馈这个问题https://code.google.com/p/android/issues/detail?id=229628了，相信下个版本应该就能解决了吧。</p>

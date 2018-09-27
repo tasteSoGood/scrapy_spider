@@ -1,0 +1,1 @@
+<p><strong><span style="color: #33cccc;">C++11中可以这样写：</span></strong></p><p><strong><span style="color: #33cccc;">C++11以前是这样写的：</span></strong></p><p> </p>

@@ -1,0 +1,1 @@
+<p><span style="color: #33cccc;"><strong>这次真的没骗你 —— 这道超级简单的题目没有任何输入。</strong></span></p><p><span style="color: #33cccc;"><strong>你只需要在一行中输出事实：“This is a simple problem.”就可以了。</strong></span></p><p> </p>

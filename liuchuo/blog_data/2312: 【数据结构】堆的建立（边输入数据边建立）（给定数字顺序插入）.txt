@@ -1,0 +1,1 @@
+<p><span style="color: #33cccc;"><span style="color: #33cccc;"><strong>向上调整（大顶堆为例）：<br></strong></span></span></p><p><span style="color: #33cccc;"><strong>向下调整（以大顶堆为例）：先将所有输入得到的数组存储到heap[i]中（构成了一颗完全二叉树，下标从1开始）</strong></span></p><p></p><p> </p>

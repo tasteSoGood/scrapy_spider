@@ -1,0 +1,1 @@
+<p>Given a positive integer, return its corresponding column title as appear in an Excel sheet.</p><p>For example:</p><p>1 -&gt; A<br>2 -&gt; B<br>3 -&gt; C<br>…<br>26 -&gt; Z<br>27 -&gt; AA<br>28 -&gt; AB</p><p></p>

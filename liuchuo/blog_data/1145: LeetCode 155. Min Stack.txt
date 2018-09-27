@@ -1,0 +1,1 @@
+<p>Design a stack that supports push, pop, top, and retrieving the minimum element in constant time.</p><p>push(x) — Push element x onto stack.<br>pop() — Removes the element on top of the stack.<br>top() — Get the top element.<br>getMin() — Retrieve the minimum element in the stack.</p><p> </p>

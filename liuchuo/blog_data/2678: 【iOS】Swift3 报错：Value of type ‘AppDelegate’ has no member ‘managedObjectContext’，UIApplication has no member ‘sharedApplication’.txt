@@ -1,0 +1,1 @@
+<p>在Swift 3里面，需要通过viewContext访问managedObjectContext，且sharedApplication方法改为shared方法：</p><p>以前是这样写的：</p><p></p>

@@ -1,0 +1,1 @@
+<p>Given a binary tree, flatten it to a linked list in-place.</p><p>For example, given the following tree:</p><p>The flattened tree should look like:</p><p></p><p></p>

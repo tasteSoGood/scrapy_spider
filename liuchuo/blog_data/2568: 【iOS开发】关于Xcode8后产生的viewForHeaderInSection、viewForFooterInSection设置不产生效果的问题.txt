@@ -1,0 +1,1 @@
+<p>以前的时候使用viewForHeaderInSection和viewForFooterInSection可以设置header和footer的view的属性、颜色等等，现在发现失效了，设置后运行的时候不显示：</p><p>即上述方法不产生效果；</p><p>后来发现必须指定titleForHeaderInSection或者titleForFooterInSection的字符串才能产生效果，即：</p><p>这样才能正确显示出来上面设置的背景颜色~</p>

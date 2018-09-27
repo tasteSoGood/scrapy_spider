@@ -1,0 +1,1 @@
+<p>Given an integer n, return the number of trailing zeroes in n!.</p><p>Note: Your solution should be in logarithmic time complexity.</p><p>Credits:<br>Special thanks to @ts for adding this problem and creating all test cases.</p><p><span style="color: #99cc00;"><strong>题目大意：在logn的时间内 找到n！末尾有几个零</strong></span></p><p></p>

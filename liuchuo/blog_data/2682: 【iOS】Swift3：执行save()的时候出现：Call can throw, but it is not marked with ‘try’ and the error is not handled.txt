@@ -1,0 +1,1 @@
+<p>报错：Call can throw, but it is not marked with ‘try’ and the error is not handled。</p><p>因为没有使用try catch语句处理异常。解决方案有三种：</p><p>第一种：使用do / catch语句处理异常：</p><p>第二种：如果你想调用一个被声明为可能抛出的函数，但是你知道它不会抛出异常，因为你会给它正确的输入，这个时候可以使用try! 也能解决问题 ：</p><p>第三种：在函数声明中使用 throws 将异常抛出，并在方法前加上try：</p><p> </p>

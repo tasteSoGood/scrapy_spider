@@ -1,0 +1,1 @@
+<p><strong>bitset用来处理二进制位非常方便。头文件是#include &lt;bitset&gt;，在std命名空间里面～</strong></p><p> </p>

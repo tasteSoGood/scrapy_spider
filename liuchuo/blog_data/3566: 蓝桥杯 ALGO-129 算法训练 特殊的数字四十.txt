@@ -1,0 +1,1 @@
+<p><span style="color: #3366ff;"><strong>问题描述</strong></span><br><span style="color: #33cccc;"><strong>　　1234是一个非常特殊的四位数，因为它的各位数之和为10，编程求所有这样的四位十进制数。</strong></span><br><span style="color: #3366ff;"><strong>输出格式</strong></span><br><span style="color: #33cccc;"><strong>　　按从小到大的顺序输出满足条件的四位十进制数。每个数字占用一行。</strong></span></p><p> </p>

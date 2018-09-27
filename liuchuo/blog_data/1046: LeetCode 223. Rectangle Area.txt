@@ -1,0 +1,1 @@
+<p>Find the total area covered by two rectilinear rectangles in a 2D plane.</p><p>Each rectangle is defined by its bottom left corner and top right corner as shown in the figure.</p><p>Rectangle Area<br>Assume that the total area is never beyond the maximum possible value of int.</p><p> </p>

@@ -1,0 +1,1 @@
+<p>Follow up for N-Queens problem.<br>Now, instead outputting board configurations, return the total number of distinct solutions.</p><p><strong><span style="color: #ff9900;">分析：和LeetCode 51. N-Queens一样，只需改动几行代码即可~</span></strong></p><p> </p>

@@ -1,0 +1,1 @@
+<p><span style="color: #33cccc;"><strong>求出5个字符串中最长的字符串。每个字符串长度在100以内，且全为小写字母。</strong></span><br><span style="color: #3366ff;"><strong>样例输入</strong></span><br><span style="color: #33cccc;"><strong>one two three four five</strong></span><br><span style="color: #3366ff;"><strong>样例输出</strong></span><br><span style="color: #33cccc;"><strong>three</strong></span></p><p> </p>

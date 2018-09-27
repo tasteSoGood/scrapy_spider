@@ -1,0 +1,1 @@
+<p>&lt;link&gt;中的rel表示relation（关系），表示了当前文档与 Web 集合中其他文档的关系</p>

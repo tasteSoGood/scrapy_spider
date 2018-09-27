@@ -1,0 +1,1 @@
+<p><span style="color: #33cccc;"><strong>输入3个整数a、b、c，（数的范围是[1,10000]）输出其中最大的数。(用指针实现)</strong></span><br><span style="color: #3366ff;"><strong>样例输入</strong></span><br><span style="color: #33cccc;"><strong>2 5 1</strong></span><br><span style="color: #3366ff;"><strong>样例输出</strong></span><br><span style="color: #33cccc;"><strong>5</strong></span></p><p> </p>

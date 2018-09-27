@@ -1,0 +1,1 @@
+<p><span style="color: #33cccc;"><strong>输入11个整数，计算它们的最大值和最小值。</strong></span><br><span style="color: #3366ff;"><strong>样例输入</strong></span><br><span style="color: #33cccc;"><strong>0 1 2 3 4 5 6 7 8 9 10</strong></span><br><span style="color: #3366ff;"><strong>样例输出</strong></span><br><span style="color: #33cccc;"><strong>10 0</strong></span></p><p> </p>

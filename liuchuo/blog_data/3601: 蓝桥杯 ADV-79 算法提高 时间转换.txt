@@ -1,0 +1,1 @@
+<p><span style="color: #33cccc;"><strong>输入n分钟换算成天、小时和分输出。例如4880分钟，可换算成3天9小时20分。</strong></span><br><span style="color: #3366ff;"><strong>样例输入</strong></span><br><span style="color: #33cccc;"><strong>4880</strong></span><br><span style="color: #3366ff;"><strong>样例输出</strong></span><br><span style="color: #33cccc;"><strong>3 9 20</strong></span></p><p> </p>

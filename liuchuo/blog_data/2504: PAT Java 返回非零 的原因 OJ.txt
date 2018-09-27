@@ -1,0 +1,1 @@
+<p><span style="color: #33cccc;"><strong>原因是你写的代码里面的public class后面的那个名字不是<span style="color: #ff0000;">Main</span>，改成<span style="color: #ff0000;">Main</span>就可以通过了~</strong></span></p><p></p>

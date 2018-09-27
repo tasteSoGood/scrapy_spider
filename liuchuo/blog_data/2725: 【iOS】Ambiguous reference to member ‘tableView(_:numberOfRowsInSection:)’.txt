@@ -1,0 +1,1 @@
+<p><strong>报错：Ambiguous reference to member ‘tableView(_:numberOfRowsInSection:)’</strong></p><p><strong>原因：没有在当前类里面绑定tableview（我这次遇到的原因是我拖动的时候拖动成了cell而不是tableview，导致tableview没有正确绑定过来）</strong></p><p><strong>解决方法：从storyboard里面把tableview绑定过来</strong></p>

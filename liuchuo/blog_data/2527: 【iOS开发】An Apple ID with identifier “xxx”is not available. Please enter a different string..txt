@@ -1,0 +1,1 @@
+<p><strong>报错信息：An Apple ID with identifier “xxx”is not available. Please enter a different string. </strong></p><p><strong>原因：Bundle ID和别的冲突了（重复了，Bundle ID必须具有唯一性）</strong></p><p><strong>解决方法：单击最左侧导航栏里面的工程名 -》Identity -》修改Bundle Identifier </strong></p>

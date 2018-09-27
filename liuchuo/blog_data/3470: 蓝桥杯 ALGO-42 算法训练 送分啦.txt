@@ -1,0 +1,1 @@
+<p><span style="color: #33cccc;"><strong>问题描述</strong></span><br><span style="color: #33cccc;"><strong>　　这题想得分吗？想，请输出“yes”；不想，请输出“no”。</strong></span><br><span style="color: #33cccc;"><strong>输出格式</strong></span><br><span style="color: #33cccc;"><strong>　　输出包括一行，为“yes”或“no”。</strong></span><br><span style="color: #33cccc;"><strong>分析：智障题目。。。</strong></span></p><p> </p>

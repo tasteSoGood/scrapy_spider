@@ -1,0 +1,1 @@
+<p><span style="color: #33cccc;"><strong>编写函数，判断某个给定字符是否为数字。</strong></span><br><span style="color: #3366ff;"><strong>样例输入</strong></span><br><span style="color: #33cccc;"><strong>9</strong></span><br><span style="color: #3366ff;"><strong>样例输出</strong></span><br><span style="color: #33cccc;"><strong>yes</strong></span></p><p> </p>

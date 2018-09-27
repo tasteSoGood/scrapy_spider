@@ -1,0 +1,1 @@
+<p>Follow up for “Remove Duplicates”:<br>What if duplicates are allowed at most twice?</p><p>For example,<br>Given sorted array nums = [1,1,1,2,2,3],</p><p>Your function should return length = 5, with the first five elements of nums being 1, 1, 2, 2 and 3. It does not matter what you leave beyond the new length.</p><p> </p>

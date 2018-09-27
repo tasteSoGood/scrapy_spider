@@ -1,0 +1,1 @@
+<p>Given an integer, write a function to determine if it is a power of three.</p><p>Follow up:<br>Could you do it without using any loop / recursion?</p><p> </p>

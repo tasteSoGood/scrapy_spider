@@ -1,0 +1,1 @@
+<p><span style="color: #33cccc;"><strong>　输入一个字符串(长度在100以内)，统计其中数字字符出现的次数。</strong></span><br><span style="color: #3366ff;"><strong>样例输入</strong></span><br><span style="color: #33cccc;"><strong>Ab100cd200</strong></span><br><span style="color: #3366ff;"><strong>样例输出</strong></span><br><span style="color: #33cccc;"><strong>6</strong></span></p><p> </p>

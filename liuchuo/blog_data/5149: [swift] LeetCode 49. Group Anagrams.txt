@@ -1,0 +1,1 @@
+<p>Given an array of strings, group anagrams together.</p><p><strong>Example:</strong></p><p><strong>Input:</strong> <code>["eat", "tea", "tan", "ate", "nat", "bat"]</code>,</p><p><strong>Output:</strong> [ [“ate”,”eat”,”tea”], [“nat”,”tan”], [“bat”] ]</p><p><strong>Note:</strong></p><p></p><p> </p>

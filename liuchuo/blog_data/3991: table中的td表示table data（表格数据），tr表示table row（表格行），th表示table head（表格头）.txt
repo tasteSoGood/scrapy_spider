@@ -1,0 +1,1 @@
+<p>&lt;table&gt;中的</p><p>&lt;td&gt;表示table data（表格数据）</p><p>&lt;tr&gt;表示table row（表格行）</p><p>&lt;th&gt;表示table head（表格头）</p>

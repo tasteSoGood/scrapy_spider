@@ -1,0 +1,1 @@
+<p>Spring并没有提供数据源连接池实现，但是可以选择其他开源的实现：</p><p>这些连接池中得大多数都能配置为Spring的数据源，在一定程度上与Spring自带的DriverManagerDataSource或SingleConnectionDataSource很类似。如下是配置DBCP BasicDataSource的方式：</p><p></p><p>也可以用Java来配置：</p><p>上面两种方式配置的四个属性是BasicDataSource所必需的。属性driverClassName指定了JDBC驱动类的全限定类名。在这里我配置的时MySql数据库的数据源  。属性url用于设置数据库的JDBC URL。最后，username和password用于在连接数据库时进行认证。</p>

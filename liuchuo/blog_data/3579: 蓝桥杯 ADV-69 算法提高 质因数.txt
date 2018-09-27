@@ -1,0 +1,1 @@
+<p><span style="color: #33cccc;"><strong>将一个正整数N(1&lt;N&lt;32768)分解质因数。例如，输入90，打印出90=2*3*3*5。</strong></span><br><span style="color: #3366ff;"><strong>样例输入</strong></span><br><span style="color: #33cccc;"><strong>66</strong></span><br><span style="color: #3366ff;"><strong>样例输出</strong></span><br><span style="color: #33cccc;"><strong>66=2*3*11</strong></span></p><p> </p>

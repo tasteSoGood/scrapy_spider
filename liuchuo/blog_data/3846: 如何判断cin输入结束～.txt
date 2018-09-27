@@ -1,0 +1,1 @@
+<p><span style="color: #33cccc;"><strong>很简单耶</strong></span></p><p><span style="color: #33cccc;"><strong>直接判断cin &gt;&gt; a就可以啦</strong></span></p><p><span style="color: #33cccc;"><strong>不需要什么EOF和~取反符号哦</strong></span></p><p><span style="color: #33cccc;"><strong>输入结束就自动退出循环啦</strong></span></p><p><strong><span style="color: #ff9900;">喵喵喵～</span></strong></p>
